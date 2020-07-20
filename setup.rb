@@ -42,3 +42,5 @@ ActiveRecord::Schema.define do
 end
 
 puts 'Setup DONE'
+
+# use this format for running the exercises: bundle exec ruby exercises/exercise_1.rb
