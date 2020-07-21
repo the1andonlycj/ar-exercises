@@ -1,5 +1,3 @@
 class Employee < ActiveRecord::Base
-  class Employee < ActiveRecord::Base
-    belongs_to :store
-  end
+  belongs_to :store
 end
